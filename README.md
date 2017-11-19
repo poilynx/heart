@@ -2,7 +2,7 @@ Heart
 =====
 
 ```
-$ *gcc heart.c -o heart -lm && ./heart*
+$ gcc heart.c -o heart -lm && ./heart
                                                   
          *****                       *****        
      ***..........**           **..........***    
